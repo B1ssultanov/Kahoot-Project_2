@@ -1,0 +1,99 @@
+1. What is a correct syntax to output "Hello World" in Java?
+System.out.println("Hello World");
+Console.WriteLine("Hello World");
+echo("Hello World");
+print ("Hello World");
+
+2. The operator '+' is used to ________ together two values.
+add
+
+3. How do you insert COMMENTS in Java code?
+// This is a comment
+#/ This is a comment
+# This is a comment
+/# This is a comment
+
+4. Which data type is used to create a variable that should store text?
+String
+Txt
+string
+myString
+
+5. How do you create a variable with the numeric value 5?
+int x = 5;
+float x = 5;
+num x = 5
+x = 5;
+
+6. How do you create a variable with the floating number 2.8?
+float x = 2.8f;
+x = 2.8f;
+int x = 2.8f;
+byte x = 2.8f
+
+7. Which method can be used to find the length of a string?
+length()
+len()
+getSize()
+getLength()
+
+8. Which method can be used to return a string in upper case letters?
+toUpperCase()
+upperCase()
+tuc()
+touppercase()
+
+9. The operator "==" can be used to ________ two values.
+compare
+
+10. How do you create a method in Java?
+methodName()
+methodName.
+methodName[]
+(methodName)
+
+11. ________ keyword is used to import a package from the Java API library.
+import
+
+12. How do you call a method in Java?
+methodName();
+(methodName);
+methodName;
+methodName[];
+
+13. ________ keyword is used to create a class in Java?
+class
+
+14. What is the correct way to create an object called myObj of MyClass?
+MyClass myObj = new MyClass();
+class MyClass = new myObj();
+new myObj = MyClass();
+class myObj = new MyClass();
+
+15. ________ statement is used to stop a loop.
+break
+
+16. Which method can be used to find the highest value of x and y?
+Math.max(x,y)
+Math.maximum(x,y)
+Math.largest(x,y)
+Math.maxNum(x,y)
+
+17. The operator '*' is used to ________ numbers?
+multiply
+
+18. How do you start writing a while loop in Java?
+while (x > y)
+x > y while {
+while x > y:
+while x > y {
+
+19. ________ keyword is used to return a value inside a method.
+return
+
+20. How do you start writing an if statement in Java?
+if (x > y)
+if x > y then:
+if x > y:
+if (x > y):
+
